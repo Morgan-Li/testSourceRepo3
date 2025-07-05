@@ -18,6 +18,7 @@
     <!-- end::packaging[] -->
 
     
+    
     <!-- tag::modules[] -->
     <modules>
         <module>jar</module>
